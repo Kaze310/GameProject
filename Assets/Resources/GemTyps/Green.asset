@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aadafe21ad9b04d42a6ba0c3019589f3, type: 3}
+  m_Name: Green
+  m_EditorClassIdentifier: Assembly-CSharp::GemType
+  id: 2
+  sprite: {fileID: 7482667652216324306, guid: ea49958c8fcda4499bc0ad7958d6156a, type: 3}
+  tint: {r: 0.06407974, g: 0.9056604, b: 0.24779508, a: 1}
+  score: 10
