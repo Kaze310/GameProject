@@ -11,8 +11,8 @@ using TMPro;
 public class BoardManager : MonoBehaviour
 {
     [Header("Board")]
-    public int width = 8;                 // Board width / 棋盘宽
-    public int height = 8;                // Board height / 棋盘高
+    public int width = 6;                 // Board width / 棋盘宽
+    public int height = 7;                // Board height / 棋盘高
     public float tileSize = 1f;           // Cell size / 单元格尺寸
     public float fallSpeed = 12f;         // Move speed for swaps and falls / 交换与下落速度
     public int minMatch = 3;              // Minimum run length to clear / 最小消除长度

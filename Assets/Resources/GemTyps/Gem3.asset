@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aadafe21ad9b04d42a6ba0c3019589f3, type: 3}
+  m_Name: Gem3
+  m_EditorClassIdentifier: Assembly-CSharp::GemType
+  id: 3
+  sprite: {fileID: 21300000, guid: 1f6799e52319c448aacd0a17a335208a, type: 3}
+  tint: {r: 0.98039216, g: 0.9529412, b: 0.8784314, a: 1}
+  score: 10
